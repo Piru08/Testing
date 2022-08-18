@@ -1,0 +1,12 @@
+C:\Users\велес\Desktop\Ворк\Met_C#\Testing\bin\Debug\Testing.exe.config
+C:\Users\велес\Desktop\Ворк\Met_C#\Testing\bin\Debug\Testing.exe
+C:\Users\велес\Desktop\Ворк\Met_C#\Testing\bin\Debug\Testing.pdb
+C:\Users\велес\Desktop\Ворк\Met_C#\Testing\obj\Debug\Testing.csproj.AssemblyReference.cache
+C:\Users\велес\Desktop\Ворк\Met_C#\Testing\obj\Debug\Testing.Form1.resources
+C:\Users\велес\Desktop\Ворк\Met_C#\Testing\obj\Debug\Testing.Properties.Resources.resources
+C:\Users\велес\Desktop\Ворк\Met_C#\Testing\obj\Debug\Testing.csproj.GenerateResource.cache
+C:\Users\велес\Desktop\Ворк\Met_C#\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\Users\велес\Desktop\Ворк\Met_C#\Testing\obj\Debug\Testing.exe
+C:\Users\велес\Desktop\Ворк\Met_C#\Testing\obj\Debug\Testing.pdb
+C:\Users\велес\Desktop\Ворк\Met_C#\Testing\bin\Debug\RequestHistory.mdf
+C:\Users\велес\Desktop\Ворк\Met_C#\Testing\bin\Debug\RequestHistory_log.ldf
